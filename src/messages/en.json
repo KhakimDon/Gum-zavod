@@ -1,0 +1,119 @@
+{
+  "main": {
+    "title": "Sand and Stone Products"
+  },
+  "nav": {
+    "page1": "Advantages",
+    "page2": "Products",
+    "page3": "About Us",
+    "page4": "Equipment",
+    "page5": "Contacts"
+  },
+  "advantage": {
+    "title": "Advantages",
+    "card1": {
+      "card1Title": "Delivery to your site",
+      "card1Description": "Our fleet is equipped with various vehicles for delivering cargo to your specified address."
+    },
+    "card2": {
+      "card2Title": "Delivery time guarantee",
+      "card2Description": "Years of experience and streamlined processes ensure timely delivery of goods."
+    },
+    "card3": {
+      "card3Title": "Competitive prices",
+      "card3Description": "Extensive production experience allows us to save resources and time, reducing product costs."
+    },
+    "card4": {
+      "card4Title": "Constant availability",
+      "card4Description": "Products are extracted in large volumes. Our efficient system eliminates delays in orders."
+    }
+  },
+  "products": {
+    "title": "Products",
+    "note": "Delivery is available within Tashkent city",
+    "empty": "No cards available",
+    "product1": {
+      "title": "Crushed stone (5-20 mm)",
+      "about1": "Price: 130,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Crushed stone of 5-20 mm fraction is one of the most in-demand and versatile types of crushed rock. It is produced by crushing durable mountain rocks such as granite, limestone, or gravel, followed by sorting. It has high strength, frost resistance, and moisture resistance."
+    },
+    "product2": {
+      "title": "Crushed stone",
+      "about1": "Price: 140,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Crushed stone of 5-20 mm fraction is one of the most in-demand and versatile types of crushed rock. It is produced by crushing durable mountain rocks such as granite, limestone, or gravel, followed by sorting. It has high strength, frost resistance, and moisture resistance."
+    },
+    "product3": {
+      "title": "Clinker",
+      "about1": "Price: 170,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Clinker is a type of crushed stone with predominantly sharp-angled (wedge-shaped) grains. It is one of the most versatile and in-demand materials. It is produced by crushing hard mountain rocks (granite, limestone, basalt) followed by sorting."
+    },
+    "product4": {
+      "title": "Clinker (32-64 mm)",
+      "about1": "Price: 225,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+    },
+    "product5": {
+      "title": "Clinker (64-100 mm)",
+      "about1": "Price: 225,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+    },
+    "product6": {
+      "title": "Clinker (100-150 mm)",
+      "about1": "Price: 225,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+    },
+    "product7": {
+      "title": "Clinker (150-300 mm)",
+      "about1": "Price: 225,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+    },
+    "product8": {
+      "title": "Clinker (300-500 mm)",
+      "about1": "Price: 225,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+    },
+    "product9": {
+      "title": "Clinker (500-1000 mm)",
+      "about1": "Price: 225,000 soum / m³",
+      "about2": "+ VAT",
+      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+    }
+  },
+  "aboutUs": {
+    "title1": "About Us",
+    "about": "We are a reliable partner for construction work and the supply of non-metallic materials. Our team consists of professionals ready to advise on any questions. We consider every request and strive to provide services quickly and efficiently.",
+    "title2": "Our Services",
+    "description1": "Extraction of non-metallic materials",
+    "title3": "The production of construction materials begins with site development. The raw materials are then sent to the plant for processing to produce high-quality products.",
+    "description2": "Delivery of non-metallic materials",
+    "title4": "Our company delivers non-metallic materials throughout Tashkent and the Tashkent region. We ensure uninterrupted supply of any volume in compliance with GOST standards and under additional quality control."
+  },
+  "trucks": {
+    "title": "Equipment",
+    "description": "HOWO Truck",
+    "description2": "Load capacity — 20 cubic meters"
+  },
+  "contact": {
+    "title": "Contacts"
+  },
+  "footer": {
+    "phone": {
+      "Phone": "Phone"
+    },
+    "social": {
+      "Social": "Social Media"
+    },
+    "address": {
+      "Address": "Address",
+      "title": "Oltintepa MFC, Oltintepa Street 166, 100007, Tashkent"
+    }
+  }
+}

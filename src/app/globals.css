@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+    .base {
+        @apply max-w-[1300px] mx-auto px-5 md:px-0
+    }
+}
+
+.main {
+    background: url(../../public/hero.jpg) no-repeat center/cover;
+    width: 100%;
+    height: 100vh;
+}

@@ -1,0 +1,119 @@
+{
+  "main": {
+    "title": "Qum va tosh mahsulotlari"
+  },
+  "nav": {
+    "page1": "Afzalliklar",
+    "page2": "Mahsulotlar",
+    "page3": "Biz haqimizda",
+    "page4": "Texnika",
+    "page5": "Aloqa"
+  },
+  "advantage": {
+    "title": "Afzalliklar",
+    "card1": {
+      "card1Title": "Objektangizga yetkazib berish",
+      "card1Description": "Avtoparkimiz buyurtmalarni ko'rsatilgan manzilga yetkazib berish uchun har xil turdagi texnika bilan jihozlangan."
+    },
+    "card2": {
+      "card2Title": "Yetkazish muddatini kafolatlash",
+      "card2Description": "Ko'p yillik tajriba va ishlab chiqilgan jarayonlar mahsulotlarni vaqtida yetkazib berishni ta'minlaydi."
+    },
+    "card3": {
+      "card3Title": "Arzon narxlar",
+      "card3Description": "Katta ishlab chiqarish tajribasi resurslar va vaqtni tejashga imkon beradi, bu esa mahsulot narxini pasaytiradi."
+    },
+    "card4": {
+      "card4Title": "Doimiy mavjudlik",
+      "card4Description": "Mahsulotlar katta hajmlarda qazib olinadi. Ishlab chiqilgan tizim buyurtmalarning kechikishini istisno qiladi."
+    }
+  },
+  "products": {
+    "title": "Mahsulotlar",
+    "note": "Toshkent shahri bo'ylab yetkazib berish mavjud",
+    "empty": "Kartalar mavjud emas",
+    "product1": {
+      "title": "Shag'al (5-20 mm)",
+      "about1": "Narxi: 130 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "5-20 mm fraktsiyadagi mayda tosh - bu eng talabgir va universal tosh turlaridan biri. Granit, ohaktosh yoki shag'al kabi qattiq jinslarni maydalash va saralash orqali ishlab chiqariladi. Yuqori mustahkamlik, sovuqqa chidamlilik va namlikka chidamlilik xususiyatlariga ega."
+    },
+    "product2": {
+      "title": "Shag'al",
+      "about1": "Narxi: 140 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "5-20 mm fraktsiyadagi mayda tosh - bu eng talabgir va universal tosh turlaridan biri. Granit, ohaktosh yoki shag'al kabi qattiq jinslarni maydalash va saralash orqali ishlab chiqariladi. Yuqori mustahkamlik, sovuqqa chidamlilik va namlikka chidamlilik xususiyatlariga ega."
+    },
+    "product3": {
+      "title": "Klines",
+      "about1": "Narxi: 170 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Klines - bu asosan o'tkir burchakli (qirrali) donalarga ega bo'lgan mayda tosh turi. Eng universal va talabgir materiallardan biri hisoblanadi. Granit, ohaktosh, bazalt kabi qattiq jinslarni maydalash va saralash orqali ishlab chiqariladi."
+    },
+    "product4": {
+      "title": "Klines (32-64 mm)",
+      "about1": "Narxi: 225 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Oddiy qum ochiq havoda qazib olinadi. Loy va boshqa tabiiy materiallar kabi aralashmalarni o'z ichiga oladi. Yoqish, manbalarni to'ldirish va obodonlashtirish uchun juda yaxshi mos keladi. Shuningdek, poydevor tayyorlashdan oldin dastlabki to'ldirish uchun ishlatiladi. Yuvilgandan va elakdan o'tkazilgandan so'ng kengroq qo'llaniladi."
+    },
+    "product5": {
+      "title": "Klines (64-100 mm)",
+      "about1": "Narxi: 225 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Oddiy qum ochiq havoda qazib olinadi. Loy va boshqa tabiiy materiallar kabi aralashmalarni o'z ichiga oladi. Yoqish, manbalarni to'ldirish va obodonlashtirish uchun juda yaxshi mos keladi. Shuningdek, poydevor tayyorlashdan oldin dastlabki to'ldirish uchun ishlatiladi. Yuvilgandan va elakdan o'tkazilgandan so'ng kengroq qo'llaniladi."
+    },
+    "product6": {
+      "title": "Klines (100-150 mm)",
+      "about1": "Narxi: 225 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Oddiy qum ochiq havoda qazib olinadi. Loy va boshqa tabiiy materiallar kabi aralashmalarni o'z ichiga oladi. Yoqish, manbalarni to'ldirish va obodonlashtirish uchun juda yaxshi mos keladi. Shuningdek, poydevor tayyorlashdan oldin dastlabki to'ldirish uchun ishlatiladi. Yuvilgandan va elakdan o'tkazilgandan so'ng kengroq qo'llaniladi."
+    },
+    "product7": {
+      "title": "Klines (150-300 mm)",
+      "about1": "Narxi: 225 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Oddiy qum ochiq havoda qazib olinadi. Loy va boshqa tabiiy materiallar kabi aralashmalarni o'z ichiga oladi. Yoqish, manbalarni to'ldirish va obodonlashtirish uchun juda yaxshi mos keladi. Shuningdek, poydevor tayyorlashdan oldin dastlabki to'ldirish uchun ishlatiladi. Yuvilgandan va elakdan o'tkazilgandan so'ng kengroq qo'llaniladi."
+    },
+    "product8": {
+      "title": "Klines (300-500 mm)",
+      "about1": "Narxi: 225 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Oddiy qum ochiq havoda qazib olinadi. Loy va boshqa tabiiy materiallar kabi aralashmalarni o'z ichiga oladi. Yoqish, manbalarni to'ldirish va obodonlashtirish uchun juda yaxshi mos keladi. Shuningdek, poydevor tayyorlashdan oldin dastlabki to'ldirish uchun ishlatiladi. Yuvilgandan va elakdan o'tkazilgandan so'ng kengroq qo'llaniladi."
+    },
+    "product9": {
+      "title": "Klines (500-1000 mm)",
+      "about1": "Narxi: 225 000 so'm / m³",
+      "about2": "+ QQS",
+      "about3": "Oddiy qum ochiq havoda qazib olinadi. Loy va boshqa tabiiy materiallar kabi aralashmalarni o'z ichiga oladi. Yoqish, manbalarni to'ldirish va obodonlashtirish uchun juda yaxshi mos keladi. Shuningdek, poydevor tayyorlashdan oldin dastlabki to'ldirish uchun ishlatiladi. Yuvilgandan va elakdan o'tkazilgandan so'ng kengroq qo'llaniladi."
+    }
+  },
+  "aboutUs": {
+    "title1": "Biz haqimizda",
+    "about": "Biz - qurilish ishlari va qurilish materiallari yetkazib berish bo'yicha ishonchli hamkormiz. Bizda har qanday savollarga javob berishga tayyor bo'lgan mutaxassislar ishlaydi. Biz har bir murojaatni hisobga olamiz va xizmatlarni tez va sifatli ko'rsatishga intilamiz.",
+    "title2": "Bizning xizmatlarimiz",
+    "description1": "Qurilish materiallarini qazib olish",
+    "title3": "Qurilish materiallarini ishlab chiqarish hududni o'rganishdan boshlanadi. Keyin xom ashyo sifatli mahsulot olish uchun qayta ishlanadigan zavodga yuboriladi.",
+    "description2": "Qurilish materiallarini yetkazib berish",
+    "title4": "Bizning kompaniya Toshkent shahri va Toshkent viloyati bo'ylab qurilish materiallarini yetkazib berishni amalga oshiradi. Biz GOST standartlariga muvofiq va qo'shimcha nazorat ostida har qanday hajmdagi uzluksiz yetkazib berishni ta'minlaymiz."
+  },
+  "trucks": {
+    "title": "Texnika",
+    "description": "HOWO yuk mashinasi",
+    "description2": "Yuk ko'tarish quvvati - 20 kub metr"
+  },
+  "contact": {
+    "title": "Aloqa"
+  },
+  "footer": {
+    "phone": {
+      "Phone": "Telefon"
+    },
+    "social": {
+      "Social": "Ijtimoiy tarmoqlar"
+    },
+    "address": {
+      "Address": "Manzil",
+      "title": "Oltintepa MFY, Oltintepa ko'chasi 166, 100007, Toshkent"
+    }
+  }
+}
