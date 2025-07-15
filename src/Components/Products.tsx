@@ -6,9 +6,10 @@ import { useTranslations } from 'next-intl'
 import { useRouter } from 'next/navigation'
 
 // Rasm fayllarni import qilish
-import card1 from "@/../public/pesok.webp"
-import card2 from "@/../public/pesok2.webp"
-import card3 from "@/../public/pesok3.webp"
+import card1 from "@/../public/sh5-20.png"
+import card2 from "@/../public/sh-20-70.png"
+import card3 from "@/../public/klinez.png"
+import card4 from "@/../public/5-20.png"
 
 interface ProductType {
   card: any;
@@ -33,12 +34,20 @@ const Products = () => {
       about3: t('product1.about3')
     },
     {
+      card: card4,
+      title: t('product4.title'),
+      about1: t('product4.about1'),
+      about2: t('product4.about2'),
+      about3: t('product4.about3')
+    },
+    {
       card: card2,
       title: t('product2.title'),
       about1: t('product2.about1'),
       about2: t('product2.about2'),
       about3: t('product2.about3')
     },
+
     {
       card: card3,
       title: t('product3.title'),
@@ -46,7 +55,6 @@ const Products = () => {
       about2: t('product3.about2'),
       about3: t('product3.about3')
     },
-
   ]
 
   const openModal = (product: ProductType) => {
@@ -93,7 +101,7 @@ const Products = () => {
               className='mx-auto mb-5 group-hover:scale-110 transition-all duration-500'
             />
             <h3 className='text-xl w-full mb-2 font-semibold'>{product.title}</h3>
-            <p>{product.about1}<sup>3</sup> {product.about2}</p>
+            <p>{product.about1} {product.about2}</p>
           </button>
         )) : (
           <p className='text-2xl text-red-600 font-bold'>{t('empty')}</p>
@@ -116,7 +124,7 @@ const Products = () => {
               className='mx-auto mb-5'
             />
             <h3 className='text-2xl font-bold mb-3'>{selectedProduct.title}</h3>
-            <p className='mb-1'>{selectedProduct.about1}<sup>3</sup> {selectedProduct.about2}</p>
+            <p className='mb-1'>{selectedProduct.about1} {selectedProduct.about2}</p>
             {selectedProduct.about3 && (
               <p className='mb-3 text-gray-600'>{selectedProduct.about3}</p>
             )}
@@ -124,7 +132,7 @@ const Products = () => {
               onClick={() => handlePush(selectedProduct)}
               className='px-8 py-2 bg-[#4D97D7] rounded-lg text-white cursor-pointer'
             > */}
-              {/* Batafsil
+            {/* Batafsil
             </button> */}
           </div>
         </div>

@@ -7,7 +7,9 @@
     "page2": "Mahsulotlar",
     "page3": "Biz haqimizda",
     "page4": "Texnika",
-    "page5": "Aloqa"
+    "page5": "Aloqa",
+    "ofis_prodaj": "Sotuv ofisi:",
+    "sales": "Sotuv bo‘limi:"
   },
   "advantage": {
     "title": "Afzalliklar",
@@ -98,8 +100,8 @@
   },
   "trucks": {
     "title": "Texnika",
-    "description": "HOWO yuk mashinasi",
-    "description2": "Yuk ko'tarish quvvati - 20 kub metr"
+    "description": "KAMAZ yuk mashinasi",
+    "description2": "Yuk ko'tarish og'riligi - 20 kub metr"
   },
   "contact": {
     "title": "Aloqa"
@@ -113,7 +115,12 @@
     },
     "address": {
       "Address": "Manzil",
-      "title": "Oltintepa MFY, Oltintepa ko'chasi 166, 100007, Toshkent"
-    }
+      "title": "Oltintepa MFY, Oltintepa ko'chasi 166, 100007, Toshkent",
+      "title_zavod": "Toshkent viloyati, Ohangaron tumani, Yonariq MFY Hududi",
+      "office": "Sotuv ofisi:",
+      "zavod": "Zavod:"
+    },
+    "ofis_prodaj": "Sotuv ofisi:",
+    "sales": "Sotuv bo‘limi:"
   }
 }

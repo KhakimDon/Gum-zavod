@@ -7,7 +7,9 @@
     "page2": "Products",
     "page3": "About Us",
     "page4": "Equipment",
-    "page5": "Contacts"
+    "page5": "Contacts",
+    "ofis_prodaj": "Sales Office:",
+    "sales": "Sales Department:"
   },
   "advantage": {
     "title": "Advantages",
@@ -98,7 +100,7 @@
   },
   "trucks": {
     "title": "Equipment",
-    "description": "HOWO Truck",
+    "description": "KAMAZ Truck",
     "description2": "Load capacity — 20 cubic meters"
   },
   "contact": {
@@ -113,7 +115,12 @@
     },
     "address": {
       "Address": "Address",
-      "title": "Oltintepa MFC, Oltintepa Street 166, 100007, Tashkent"
-    }
+      "title": "Oltintepa MFC, Oltintepa Street 166, 100007, Tashkent",
+      "title_zavod": "Tashkent Region, Ohangaron District, Yonariq Mahalla Area",
+      "office": "Office:",
+      "zavod": "Factory:"
+    },
+    "ofis_prodaj": "Sales Office:",
+    "sales": "Sales Department:"
   }
 }

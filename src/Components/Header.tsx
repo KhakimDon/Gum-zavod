@@ -21,6 +21,7 @@ const Header = () => {
     { labelKey: 'page2', href: '#products' },
     { labelKey: 'page3', href: '#about' },
     { labelKey: 'page4', href: '#trucks' },
+    { labelKey: 'page6', href: '#documents' },
     { labelKey: 'page5', href: '#contact' }
   ]
 
@@ -63,9 +64,17 @@ const Header = () => {
 
       {/* Right Side (Phone & Lang) */}
       <div className='hidden md:flex items-center gap-4 text-lg relative'>
-        <a href="tel:+998777533080" className='text-white bg-[#4D97D7] px-3 py-1   font-semibold'>
-          +998 77 753 30 80
-        </a>
+        <div className='flex flex-col'>
+          <a href="tel:+998777533080" className='text-white px-3'>
+            {t('ofis_prodaj')} <span className='font-semibold'> +998 77 753 30 80</span>
+          </a>
+          <span className='text-white px-3 pb-1'>info@gum-zavod.uz</span>
+          <div className='h-px w-full !bg-white'></div>
+          <a href="tel:+998777533081" className='text-white px-3 pt-1'>
+            {t('sales')}  <span className='font-semibold'>+998 77 753 30 81</span>
+          </a>
+           <span className='text-white px-3 pb-1'>molaverdi@gum-zavod.uz</span>
+        </div>
 
         <button onClick={() => setOpenModal(!openModal)} className='flex items-center bg-[#4D97D7] px-3 py-1  text-white font-semibold'>
           {currentLocale.toUpperCase()} {openModal ? <CaretUpIcon className="w-5 h-5" /> : <CaretDownIcon className="w-5 h-5" />}
@@ -97,7 +106,6 @@ const Header = () => {
             ))}
           </ul>
           <div className='mt-4 group w-max'>
-            <a href="tel:+998777533080" className='block mb-2 text-black font-semibold'>+998 77 753 30 80</a>
             <div className='w-0 group-hover:w-full h-0.5 bg-[#4D97D7] transition-all duration-300'></div>
           </div>
           <div className='mt-4'>
