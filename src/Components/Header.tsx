@@ -43,7 +43,7 @@ const Header = () => {
 
       <div className='flex items-center gap-20'>
         {/* Logo */}
-        <div className='bg-white mr-4 rounded-b-[20px]'>
+        <div className='bg-white mr-4 p-4 pt-8 rounded-b-[20px]'>
           <Link href={"/"}>
             <Image src={logo} width={160} height={24} alt='Logo pesok' />
           </Link>
