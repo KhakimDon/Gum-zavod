@@ -14,7 +14,7 @@ const Main = () => {
                 className="base flex items-center justify-center"
                 style={{ height: 'calc(80vh - 110px)' }} // 84px is header height
             >
-                <h1 className='max-w-[240px] text-center text-4xl font-bold text-white'>
+                <h1 className='max-w-[540px] text-center text-[50px] font-bold text-white'>
                     {t('main.title')}
                 </h1>
             </div>

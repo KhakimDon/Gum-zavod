@@ -1,105 +1,115 @@
 {
   "main": {
-    "title": "Sand and Stone Products"
+    "title": "Rock Materials"
   },
   "nav": {
     "page1": "Advantages",
     "page2": "Products",
     "page3": "About Us",
     "page4": "Equipment",
-    "page5": "Contacts"
+    "page5": "Contacts",
+    "page6": "Documents",
+    "ofis_prodaj": "Sales Office:",
+    "sales": "Sales Department:"
   },
   "advantage": {
     "title": "Advantages",
     "card1": {
-      "card1Title": "Delivery to your site",
-      "card1Description": "Our fleet is equipped with various vehicles for delivering cargo to your specified address."
+      "card1Title": "Direct Delivery to Site",
+      "card1Description": "Our own fleet of modern equipment ensures fast and safe delivery of products to your address."
     },
     "card2": {
-      "card2Title": "Delivery time guarantee",
-      "card2Description": "Years of experience and streamlined processes ensure timely delivery of goods."
+      "card2Title": "On-Time Delivery",
+      "card2Description": "Streamlined processes and years of experience guarantee timely deliveries without delays."
     },
     "card3": {
-      "card3Title": "Competitive prices",
-      "card3Description": "Extensive production experience allows us to save resources and time, reducing product costs."
+      "card3Title": "Competitive Prices",
+      "card3Description": "Efficient production organization helps optimize costs and offer the best market prices."
     },
     "card4": {
-      "card4Title": "Constant availability",
-      "card4Description": "Products are extracted in large volumes. Our efficient system eliminates delays in orders."
+      "card4Title": "Product Availability in Stock",
+      "card4Description": "We ensure stable extraction volumes and warehouse stocks so your orders are fulfilled without interruptions."
     }
   },
   "products": {
     "title": "Products",
-    "note": "Delivery is available within Tashkent city",
+    "note": "Delivery available within Tashkent city",
     "empty": "No cards available",
     "product1": {
-      "title": "Crushed stone (5-20 mm)",
-      "about1": "Price: 130,000 soum / m³",
-      "about2": "+ VAT",
-      "about3": "Crushed stone of 5-20 mm fraction is one of the most in-demand and versatile types of crushed rock. It is produced by crushing durable mountain rocks such as granite, limestone, or gravel, followed by sorting. It has high strength, frost resistance, and moisture resistance."
+      "title": "Crushed Stone 5–10 mm",
+      "about1": "Price: 80,000 UZS / m³",
+      "about2": "+ VAT (Negotiable)",
+      "about3": "Crushed stone of 5–20 mm fraction is one of the most in-demand and versatile types of crushed rock. It is produced from hard rock (granite, limestone, gravel) by crushing and sorting. It is characterized by high strength, frost resistance, and moisture resistance."
     },
     "product2": {
-      "title": "Crushed stone",
-      "about1": "Price: 140,000 soum / m³",
-      "about2": "+ VAT",
-      "about3": "Crushed stone of 5-20 mm fraction is one of the most in-demand and versatile types of crushed rock. It is produced by crushing durable mountain rocks such as granite, limestone, or gravel, followed by sorting. It has high strength, frost resistance, and moisture resistance."
+      "title": "Crushed Stone 20–70 mm",
+      "about1": "Price: 65,000 UZS / m³",
+      "about2": "+ VAT (Negotiable)",
+      "about3": "Crushed stone of 0–5 mm fraction is ideal for concrete production, road surfaces, and landscaping. It is obtained by crushing and screening hard rock. It has high adhesion and excellent performance characteristics."
     },
     "product3": {
-      "title": "Clinker",
-      "about1": "Price: 170,000 soum / m³",
-      "about2": "+ VAT",
-      "about3": "Clinker is a type of crushed stone with predominantly sharp-angled (wedge-shaped) grains. It is one of the most versatile and in-demand materials. It is produced by crushing hard mountain rocks (granite, limestone, basalt) followed by sorting."
+      "title": "Clinker 0–5 mm",
+      "about1": "Price: 120,000 UZS / m³",
+      "about2": "+ VAT (Negotiable)",
+      "about3": "Clinker is a type of crushed stone with predominantly wedge-shaped (sharp-angled) grains. It is produced from hard rock (granite, limestone, basalt) through multi-stage crushing and sorting. It is used in road construction, concrete structures, and drainage systems due to its strength and durability."
     },
     "product4": {
-      "title": "Clinker (32-64 mm)",
-      "about1": "Price: 225,000 soum / m³",
-      "about2": "+ VAT",
-      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+      "title": "Crushed Stone 5–20 mm",
+      "about1": "Price: 70,000 UZS / m",
+      "about2": "+ VAT (Negotiable)",
+      "about3": "Crushed stone of 5–20 mm fraction is one of the most popular and versatile types of non-metallic materials, widely used in construction. It is produced by crushing hard rock (granite, limestone, basalt) and subsequent sorting."
     },
     "product5": {
       "title": "Clinker (64-100 mm)",
-      "about1": "Price: 225,000 soum / m³",
+      "about1": "Price: 225,000 UZS / m",
       "about2": "+ VAT",
-      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+      "about3": "Regular sand is extracted in open air. It is incompatible with components such as clay and other natural materials. It is very suitable for burning, filling wells, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it is used more widely."
     },
     "product6": {
       "title": "Clinker (100-150 mm)",
-      "about1": "Price: 225,000 soum / m³",
+      "about1": "Price: 225,000 UZS / m",
       "about2": "+ VAT",
-      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+      "about3": "Regular sand is extracted in open air. It is incompatible with components such as clay and other natural materials. It is very suitable for burning, filling wells, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it is used more widely."
     },
     "product7": {
       "title": "Clinker (150-300 mm)",
-      "about1": "Price: 225,000 soum / m³",
+      "about1": "Price: 225,000 UZS / m",
       "about2": "+ VAT",
-      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+      "about3": "Regular sand is extracted in open air. It is incompatible with components such as clay and other natural materials. It is very suitable for burning, filling wells, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it is used more widely."
     },
     "product8": {
       "title": "Clinker (300-500 mm)",
-      "about1": "Price: 225,000 soum / m³",
+      "about1": "Price: 225,000 UZS / m",
       "about2": "+ VAT",
-      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+      "about3": "Regular sand is extracted in open air. It is incompatible with components such as clay and other natural materials. It is very suitable for burning, filling wells, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it is used more widely."
     },
     "product9": {
       "title": "Clinker (500-1000 mm)",
-      "about1": "Price: 225,000 soum / m³",
+      "about1": "Price: 225,000 UZS / m",
       "about2": "+ VAT",
-      "about3": "Ordinary sand is extracted in open-air quarries. It contains impurities such as clay and other natural materials. It is well-suited for burning, filling sources, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it can be used more widely."
+      "about3": "Regular sand is extracted in open air. It is incompatible with components such as clay and other natural materials. It is very suitable for burning, filling wells, and landscaping. It is also used for initial backfilling before foundation preparation. After washing and screening, it is used more widely."
     }
   },
   "aboutUs": {
     "title1": "About Us",
-    "about": "We are a reliable partner for construction work and the supply of non-metallic materials. Our team consists of professionals ready to advise on any questions. We consider every request and strive to provide services quickly and efficiently.",
+    "about": "We are a reliable partner in construction and supply of non-metallic materials in Tashkent and the region. Our team consists of experienced specialists who will help you find optimal solutions for any project. We value every client and guarantee high-quality services, efficiency, and an individual approach. The most modern equipment and technologies from Iran",
     "title2": "Our Services",
     "description1": "Extraction of non-metallic materials",
-    "title3": "The production of construction materials begins with site development. The raw materials are then sent to the plant for processing to produce high-quality products.",
+    "title3": "Production begins with the development of deposits and extraction of raw materials. Modern equipment and processing technologies allow us to produce products that meet high-quality standards.",
     "description2": "Delivery of non-metallic materials",
-    "title4": "Our company delivers non-metallic materials throughout Tashkent and the Tashkent region. We ensure uninterrupted supply of any volume in compliance with GOST standards and under additional quality control."
+    "title4": "Our own fleet allows us to organize fast and reliable delivery of any volume of products. We guarantee timely deliveries without delays or disruptions."
   },
   "trucks": {
+    "look": "View",
+    "doc": "Documents",
+    "doc1": "CERTIFICATE OF COMPLIANCE GOST 8267-93 for crushed stone of 5–20 mm fraction",
+    "doc2": "CERTIFICATE OF COMPLIANCE GOST 31424-2010 for sand of 0–5 mm fraction",
+    "doc3": "License",
+    "doc4": "Test Protocol No. 2522-P",
+    "doc5": "Test Protocol No. 2015-Shch",
     "title": "Equipment",
-    "description": "HOWO Truck",
-    "description2": "Load capacity — 20 cubic meters"
+    "description": "KAMAZ Dump Truck",
+    "description2": "Load capacity — 20 and 40 cubic meters"
   },
   "contact": {
     "title": "Contacts"
@@ -113,7 +123,12 @@
     },
     "address": {
       "Address": "Address",
-      "title": "Oltintepa MFC, Oltintepa Street 166, 100007, Tashkent"
-    }
+      "title": "Oltintepa District, Oltintepa Street 166, 100007, Tashkent",
+      "title_zavod": "Tashkent Region, Ohangaron District, Yonariq Mahalla Territory",
+      "office": "Sales Office:",
+      "zavod": "Factory:"
+    },
+    "ofis_prodaj": "Sales Office:",
+    "sales": "Sales Department:"
   }
 }

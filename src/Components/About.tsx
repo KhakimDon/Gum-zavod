@@ -10,8 +10,8 @@ export default function About() {
   return (
     <div className=''>
       <div
-        className='p-4 bg-cover bg-bottom'
-        style={{ backgroundImage: `url(${about_bg.src})` }}
+        className='p-4 bg-center'
+        style={{ backgroundImage: `url(${about_bg.src})`, backgroundRepeat: 'no-repeat', backgroundSize: '1440px' }}
       >
         <div className='base py-10 md:py-20'>
           <section className='mb-10'>
